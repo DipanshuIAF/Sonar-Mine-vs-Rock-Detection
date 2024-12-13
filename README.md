@@ -14,3 +14,4 @@ Pandas,
 train_test_split from sklearn.model_selection, 
 LogisticRegression from sklearn.linear_model, 
 accuracy_score from sklearn.metrics
+**Tutorial Video of this working model:-**
