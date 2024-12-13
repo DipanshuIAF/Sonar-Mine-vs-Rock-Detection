@@ -15,3 +15,7 @@ train_test_split from sklearn.model_selection,
 LogisticRegression from sklearn.linear_model, 
 accuracy_score from sklearn.metrics
 **Tutorial Video of this working model:-**
+
+
+https://github.com/user-attachments/assets/cd374b96-1255-4701-91f7-a9443de35742
+
